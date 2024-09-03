@@ -1,19 +1,5 @@
-/*div{*/
-/*    height: 100px;*/
-/*    width: 100px;*/
-/*    border: 3px #e2dfdf solid;*/
-/*    border-radius: 100%;*/
-/*    transition: 0.5s;*/
-/*}*/
-/*div:hover{*/
-/*    height: 115px;*/
-/*    width: 115px;*/
-/*    transition: 0.5s;*/
-/*}*/
-
-/*.active{*/
-/*    border: 3px #1bdb1b solid !important;*/
-/*}*/
-/*.activeFalse{*/
-/*    border: 3px red solid !important;*/
-/*}*/
+button {
+		width: 100px;
+		height: 100px;
+		border-radius: 100%;
+}

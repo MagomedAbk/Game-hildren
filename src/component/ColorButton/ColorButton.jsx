@@ -1,9 +1,8 @@
 import './ColorButton.css'
 
+function ColorButton({color, onClick}) {
 
-function ColorButton({color,useColor,}) {
-
- return(<div onClick={useColor} style={{background:color}} id={color} ></div>)
+	return (<button onClick={onClick} style={{background: color}}/>)
 }
 
- export default ColorButton
+export default ColorButton
